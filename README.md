@@ -30,18 +30,18 @@ Configurar la cadena de conexión en appsettings.json
 Ejecutar migraciones (Update-Database)
 Ejecutar el proyecto desde Visual Studio
 
-## Screenshots
+## Capturas
 
 ### Home
 ![images/Home.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Home.png)
 
-### Client List
+### Lista de Clientes
 ![images/Listado.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Listado.png)
 
-### Create Client
+### Crear Cliente
 ![images/CrearCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/CrearCliente.png)
 
-### Edit Client
+### Editar Cliente
 ![images/EditarCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/78e3a5aac951ab5924c01f741447c5495ebecfa4/Images/EditarCliente.png)
 
 
